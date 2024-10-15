@@ -1,0 +1,1 @@
+print("SUM = {0}".format(s))
